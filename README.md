@@ -12,32 +12,11 @@ Este código HTML e CSS implementa um formulário de login com estilo moderno e 
 * Um texto com link também incentiva o registro para novos usuários.
 * O formulário possui um fundo de imagem e elementos transparentes com sombras para um efeito visual agradável.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/FORMULARIO-ANIMATE.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd FORMULARIO-ANIMATE
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip FORMULARIO-ANIMATE.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO POR "HASHTECHIEOFFICIAL"](https://github.com/Hashtechieofficial/Form-)
