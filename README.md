@@ -22,7 +22,6 @@ Este código HTML e CSS implementa um formulário de login com estilo moderno e 
 - [PROJETO CRIADO POR "HASHTECHIEOFFICIAL"](https://github.com/Hashtechieofficial/Form-)
 - [PROJETO DO VIDEO DO YOUTUBE](https://youtu.be/1H-vSHVOxoU?si=whEl5e2-uSEEv1ey)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
 
 
